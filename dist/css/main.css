@@ -90,9 +90,6 @@
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
 
-.nav-item:nth-child(5) {
-  transition-delay: 0.5s; }
-
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -184,9 +181,6 @@
 
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
-
-.nav-item:nth-child(5) {
-  transition-delay: 0.5s; }
 
 * {
   box-sizing: border-box; }
