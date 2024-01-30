@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive website portfolio",
   "main": "index.js",
-  "homepage": "https://kyoto321.github.io/mordern-portfolio",
+  "homepage": "https://Kyoto321.github.io/mordern-portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
